@@ -3,6 +3,27 @@ my react demo
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# usage
+
+run below commond
+
+```js
+// 0 - install  create-react-app
+npm install -g create-react-app
+
+// 1- create-react-app init
+create-react-app my_react
+
+// 2- cd dir
+cd my_react
+
+// 3- yarn (install dependencies)
+yarn
+
+// 4- yarn start (run server)
+yarn start
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
